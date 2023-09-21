@@ -255,6 +255,31 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+footer{
+	display: flex;
+	justify-content: center;
+}
+
+footer div {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+footer p{
+	margin: 0;
+	font-family: 'Spectral', sans-serif;
+	text-align: center;
+}
+
+footer h5{
+	margin-top: 0;
+	margin-bottom: 5px;
+	font-family: 'Spectral', sans-serif;
+	font-size: larger;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
