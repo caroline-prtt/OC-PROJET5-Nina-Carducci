@@ -12,7 +12,7 @@ Après avoir proposé nos services d'optimisation SEO à la photographe Nina Car
 
 Notre mission consiste alors à : 
 1. optimiser le site internet : tant sur le SEO que sur les performances et l'accessibilité
-2. résoudre deux bugs concernants : 
+2. résoudre deux bugs concernant : 
     - le défilement des photos dans la modale de la galerie
     - l'affichage du fond doré sur les filtres actifs
 
